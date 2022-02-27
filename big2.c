@@ -1,6 +1,6 @@
-#include <stdio.h>  
+#include <stdio.h>
    
-biggest2()
+biggest2() //calling function
 {  
     int a, b;  
     printf("Please Enter Two different values\n");  
