@@ -1,5 +1,6 @@
 #include <stdio.h>
    
+
 biggest2() //calling function
 {  
     int a, b;  
